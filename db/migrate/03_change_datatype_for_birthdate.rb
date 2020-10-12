@@ -6,3 +6,4 @@ end
 
 
 # column type datetime
+# column type string to datetime
