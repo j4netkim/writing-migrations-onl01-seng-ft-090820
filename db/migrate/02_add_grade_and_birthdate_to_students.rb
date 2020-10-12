@@ -3,3 +3,4 @@ end
 
 
 #add columns to students table
+# define change method
